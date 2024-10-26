@@ -13,7 +13,7 @@
 ---
 
 💭 **Quick facts about me:**
-- Neurodiversity is my superpower – ADHD drives my creativity and out-of-the-box solutions.
+- Neurodiversity is my superpower drives my creativity and out-of-the-box solutions.
 - I’ve succeeded in **every in-person interview** thanks to my interpersonal skills and adaptability.
 - **Exploration** is key to my life philosophy: from building innovative tech solutions to learning skateboarding, I thrive on new challenges!
   
