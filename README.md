@@ -5,8 +5,8 @@
 - 🎓 Currently pursuing an **Advanced Computing (Honours)** degree at the **Australian National University** (ANU).
 - 🎮 Developing **interactive mini-games** and **RPGs**, always seeking ways to bring narratives and technology together.
 - 🤖 Proficient in **Python**, **Phaser**, **Next.js**, and exploring the realms of **machine learning** and **deep learning**.
-- 🐾 Dog lover, jazz music enthusiast, and Zumba dancer – because balance matters!
-- 🛠️ Recently working on **ROS2** and **Gazebo** for autonomous navigation projects, with hands-on experience in **cybersecurity**.
+- 🐾 Dog lover, jazz music enthusiast, Zumba dancer and amateur pianist– because balance matters!
+- 🛠️ Recently working on **ROS2** and **Gazebo** for autonomous navigation projects（sub-domain: planning), with hands-on experience in **cybersecurity**.
 - 💬 Love to collaborate on projects that challenge conventional thinking and explore new frontiers in **AI** and **game development**.
 - 📫 Reach me at [u7614478@anu.edu.au](mailto:u7614478@anu.edu.au)
 
