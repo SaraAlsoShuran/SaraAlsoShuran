@@ -9,7 +9,7 @@
 - 🛠️ Recently working on **ROS2** and **Gazebo** for ai autonomous navigation projects（sub-domain: planning), with hands-on experience in **cybersecurity**.
 - 💬 Love to collaborate on projects that challenge conventional thinking and explore new frontiers in **AI** and **game development**.
 - 📫 Reach me at [u7614478@anu.edu.au](mailto:u7614478@anu.edu.au)
-- Going to start my honour research in 2025 as my final year project.
+- Going to start my honour research on AI in 2025 as my final year project.
 
 ---
 
